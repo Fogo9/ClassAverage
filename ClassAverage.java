@@ -31,31 +31,31 @@ public class ClassAverage {
 
         if (Mathematics >= 0 && Mathematics <= 100){
 
-            average += Mathematics;
+            average = average + Mathematics;
 
         }
 
         if (Physics >= 0 && Physics <= 100){
 
-            average += Physics;
+            average = average + Physics;
 
         }
 
         if (Chemical >= 0 && Chemical <= 100){
 
-            average += Chemical;
+            average = average + Chemical;
 
         }
 
         if (Turkish >= 0 && Turkish <= 100){
 
-            average += Turkish;
+            average = average + Turkish;
 
         }
 
         if (Music >= 0 && Music <= 100){
 
-            average += Music;
+            average = average + Music;
 
         }
 
