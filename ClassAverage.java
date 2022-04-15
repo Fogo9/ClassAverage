@@ -1,6 +1,7 @@
 import java.util.Scanner;
 
 public class ClassAverage {
+    
     public static void main(String[] args) {
 
         int Mathematics, Physics, Chemical, Turkish, Music, average = 0;
