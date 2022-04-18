@@ -30,8 +30,6 @@
 
                 int Mathematics, Physics, Chemical, Turkish, Music, average = 0;
 
-
-
 ```
 
 ```Java
@@ -57,8 +55,6 @@
                 System.out.print("Your Music Grade : ");
 
                 Music = input.nextInt();
-
-
 
 ```
 ```Java
@@ -92,12 +88,8 @@
                     average += Music;
 
                 }
-
-
             }
         }
-
-
 ```
 
 ```bash
