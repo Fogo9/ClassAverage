@@ -1,14 +1,14 @@
 # **CLASS AVERAGE**
 
-# Information
+## INFORMATION
 
 * **Class average and passing grade were calculated.**
 
-# Technologies Used
+## TECHNOLOGIES USED
 
 * **JAVA**
 
-# Contents
+## CONTENTS
 
 * In this project, it is written using only int variable.
 
@@ -20,7 +20,7 @@
 
 <br />
 
-# Codes
+## CODES
 
 ```Java
 
@@ -130,13 +130,13 @@
 
 <br />
 
-# LINK
+## LINK
 
 * Click here https://github.com/Fogo9/ClassAverage.git to access the Github page for this project.
 
 <br />
 
-# LICENSE
+## LICENSE
 
 * This software is licensed By Tuncay Demir under the MIT license.
 
